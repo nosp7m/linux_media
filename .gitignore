@@ -1,0 +1,7 @@
+*
+!.gitignore
+!Makefile
+!README.md
+!tbsci.c
+!tbsci.h
+!tbsci-io.h
