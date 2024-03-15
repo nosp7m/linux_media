@@ -1,0 +1,15 @@
+*
+!.gitignore
+!cxd2878.c
+!cxd2878.h
+!cxd2878_priv.h
+!Makefile
+!README.md
+!tbsecp3-asi.c
+!tbsecp3-cards.c
+!tbsecp3-core.c
+!tbsecp3-dma.c
+!tbsecp3-dvb.c
+!tbsecp3.h
+!tbsecp3-i2c.c
+!tbsecp3-regs.h
